@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleCalculatorTEST</string>
+    <string name="hint1">Enter value...</string>
+    <string name="hint2">Enter value two...</string>
+    <string name="multiply">Multiply Values</string>
+    <string name="add">Add Values</string>
+    <string name="resultLabel">Result: </string>
+</resources>
